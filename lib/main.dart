@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
-import 'InfoFAB.dart';
-import 'artWork.dart';
-import 'artworkDetailPage.dart';
-import 'drawerMenu.dart';
-import 'TitleModel.dart';
+import 'info_fab.dart';
+import 'art_work.dart';
+import 'artwork_detail_page.dart';
+import 'drawer_menu.dart';
+import 'title_model.dart';
 
 void main() {
   runApp(
