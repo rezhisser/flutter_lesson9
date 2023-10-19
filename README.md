@@ -1,6 +1,6 @@
 # lesson9
 
-![Демо](demo.gif)
+![Демо](demo2.gif)
 
 ## Getting Started
 
